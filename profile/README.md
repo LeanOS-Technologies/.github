@@ -18,4 +18,4 @@ Services
 
 Website
 
-https://leanos.tech
+[https://leanos.tech](https://www.leanos.tech/)
