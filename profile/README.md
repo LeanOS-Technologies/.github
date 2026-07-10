@@ -2,7 +2,8 @@
 
 AI-native operating repositories for building trading systems.
 
-LeanOS builds reusable repositories that combine architecture, specifications, implementation workflows, and AI agents into production-ready engineering systems.
+LeanOS builds reusable repositories that combine architecture, specifications, implementation workflows, 
+and AI agents into production-ready engineering systems.
 
 Current products
 
