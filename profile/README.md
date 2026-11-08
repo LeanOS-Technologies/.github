@@ -1,46 +1,71 @@
-# LeanOS
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeanOS-Technologies/.github/main/profile/assets/cover.svg" width="1200" alt="LeanOS — operate with AI, direct the work. Atlases, specialist workers and operating systems.">
+</p>
 
-Build trading systems from strategy intent, with AI agents working from explicit financial rules and engineering specifications.
+<h1 align="center">Operating and engineering with AI.</h1>
 
-LeanOS creates frameworks that bring together reusable components, architecture, specifications, and agent workflows. You define the strategy and operating constraints; the framework supplies the foundations for implementing and verifying the system.
+<p align="center">
+  Professional knowledge, methods and checks for your own coding agent.<br>
+  You set the direction, examine the work and decide what counts.
+</p>
 
-## Options OS
+<p align="center">
+  <a href="https://github.com/LeanOS-Technologies/content-atlas">Content Atlas</a> &nbsp; / &nbsp;
+  <a href="https://github.com/LeanOS-Technologies/strategy">Strategy group</a> &nbsp; / &nbsp;
+  <a href="https://www.leanos.tech/">LeanOS</a>
+</p>
 
-Our first framework is **Options OS**, for building crypto-options trading engines.
+---
 
-An engine needs more than entry and exit rules. It needs to understand instruments, value positions, enforce risk limits, plan hedges, execute orders, and reconcile what actually happened.
+## Put professional structure behind your AI
 
-Options OS provides reusable foundations for that work:
+LeanOS builds systems for doing useful work with AI. Each product gives your agent a field's knowledge, its methods and the programs that check the work. Files, decisions and results stay in your repository, ready for the next session.
 
-| What your engine needs | What the framework provides |
-|---|---|
-| Understand market data | Instrument normalization and market facts |
-| Evaluate options | Option valuation and volatility analysis |
-| Track exposure | Portfolio accounting and risk assessment |
-| Manage trades | Hedge planning and order construction |
-| Operate consistently | Execution, lifecycle management, and reconciliation |
-| Verify behaviour | Runtime contracts, tests, and observability |
+LeanOS is itself a venture operated this way. We build and use these capabilities in our own work, then make them available to other people and businesses.
 
-### How you use it
+## Start with a free product
 
-1. **Describe your strategy:** what it trades, when it acts, and what risk it can take.
-2. **Specify its behaviour:** decision rules, sizing, hedging, execution, and operating constraints.
-3. **Build with a coding agent:** use framework components and agent skills to implement the engine.
-4. **Verify the result:** check financial rules, system behaviour, and runtime evidence.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Content Atlas</h3>
+      <p><strong>See what your content could do.</strong></p>
+      <p>Explore formats, channels, placements and connections for your audience. Resolve a question, map existing content or narrow a result to your focus.</p>
+      <p>Free under MIT · Your own agent · JSON + Excel</p>
+      <a href="https://github.com/LeanOS-Technologies/content-atlas">Open Content Atlas →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Strategy group</h3>
+      <p><strong>Define the business. Give work a path.</strong></p>
+      <p>Four specialists develop the venture definition, market choices, positioning, revenue model, offers and prices. You settle the decisions and accept the documents.</p>
+      <p>Free under MIT · 4 specialists · Markdown documents</p>
+      <a href="https://github.com/LeanOS-Technologies/strategy">Open the Strategy group →</a>
+    </td>
+  </tr>
+</table>
 
-This supports engines for short and long volatility, skew and calendar trading, surface relative value, and options market making.
+## Three product families
 
-### Who it is for
+| Family | What it makes possible | Products |
+| --- | --- | --- |
+| **Atlases** | See a field's possibilities and their reasons, then choose. | Content Atlas · Webpage Atlas |
+| **Workers** | Give your agent a specialist's methods, knowledge and responsibility for an area of work. | Strategy group |
+| **Operating systems** | Build and test a working system on a domain's foundations, contracts and libraries. | OptionsOS |
 
-- **Traders:** turn strategy knowledge into explicit rules and an operating engine.
-- **Engineers:** build on reusable financial components with clear boundaries.
-- **Builders using coding agents:** give the agent defined financial meaning, implementation workflows, and verification requirements.
+Webpage Atlas explores one page's purposes, sections and layouts. OptionsOS provides the foundations for engineering crypto-options trading engines. They are licensed products delivered through private repositories. [Read the OptionsOS public overview](https://github.com/LeanOS-Technologies/options-os-public).
 
-Options OS is a private, licensed framework.
+Free products are public repositories. Paid products are private repositories and may have a public overview. Each product works through your own agent; the work you produce with it is yours.
 
-## Build with us
+## Your direction. Work that stays useful.
 
-- **Strategy implementation:** specify and implement your trading strategy.
-- **Full trading-platform delivery:** build the surrounding data, execution, risk, and operational systems.
+Bring a request and the material you have. Your agent applies the relevant methods, programs check their declared properties, and decisions that need your judgment return to you. Accepted documents and useful results remain available for related work.
 
-[Explore Options OS and discuss a build →](https://www.leanos.tech/)
+We also build custom AI workers and connected systems for a venture's work. [Talk to LeanOS](mailto:bella@leanos.tech) about the capability you need.
+
+---
+
+<p align="center">
+  <strong>LeanOS Technologies</strong><br>
+  <a href="https://www.leanos.tech/">www.leanos.tech</a> &nbsp;·&nbsp;
+  <a href="mailto:bella@leanos.tech">bella@leanos.tech</a>
+</p>
