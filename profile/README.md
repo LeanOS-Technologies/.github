@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LeanOS-Technologies/.github/main/profile/assets/cover.svg" width="1200" alt="LeanOS — operate with AI, direct the work. Atlases, specialist workers and operating systems.">
+  <picture>
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/LeanOS-Technologies/.github/main/profile/assets/cover-mobile.svg">
+    <img src="https://raw.githubusercontent.com/LeanOS-Technologies/.github/main/profile/assets/cover.svg" width="960" alt="LeanOS — operate with AI.">
+  </picture>
 </p>
 
 <h1 align="center">Operating and engineering with AI.</h1>
@@ -25,24 +28,10 @@ LeanOS is itself a venture operated this way. We build and use these capabilitie
 
 ## Start with a free product
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Content Atlas</h3>
-      <p><strong>See what your content could do.</strong></p>
-      <p>Explore formats, channels, placements and connections for your audience. Resolve a question, map existing content or narrow a result to your focus.</p>
-      <p>Free under MIT · Your own agent · JSON + Excel</p>
-      <a href="https://github.com/LeanOS-Technologies/content-atlas">Open Content Atlas →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Strategy group</h3>
-      <p><strong>Define the business. Give work a path.</strong></p>
-      <p>Four specialists develop the venture definition, market choices, positioning, revenue model, offers and prices. You settle the decisions and accept the documents.</p>
-      <p>Free under MIT · 4 specialists · Markdown documents</p>
-      <a href="https://github.com/LeanOS-Technologies/strategy">Open the Strategy group →</a>
-    </td>
-  </tr>
-</table>
+| Free under MIT | What it helps you do |
+| --- | --- |
+| [Content Atlas](https://github.com/LeanOS-Technologies/content-atlas) | Explore formats, channels and routes; map existing content or narrow a result to your focus. |
+| [Strategy group](https://github.com/LeanOS-Technologies/strategy) | Develop a connected venture definition, market choices, positioning, revenue model, offers and prices. |
 
 ## Three product families
 
